@@ -1,0 +1,9 @@
+-r requirements.txt
+
+# Jupyter kernel support for running the notebooks
+# (ipykernel pulls in ipython, jupyter-client, jupyter-core, etc. automatically)
+ipykernel
+
+# Uncomment if you're not using VS Code's Jupyter extension and need
+# a standalone way to open/run the notebooks:
+# jupyterlab
